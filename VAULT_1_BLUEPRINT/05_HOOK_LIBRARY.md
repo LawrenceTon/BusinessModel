@@ -1,10 +1,16 @@
 # 05_HOOK_LIBRARY: ATTENTION CAPTURE NODES
 
-## THE 188B POWER HOOK
-* [cite_start]"Are your products being locked out of the 188-Billion PHP Philippine market due to regulatory friction?" [cite: 163]
+## THE PHARMA HOOK
+"Are you losing 15% of your Philippine revenue to regulatory friction and FDA delays?"
 
-## THE PATENT CLIFF HOOK
-* [cite_start]"As Patent Cliff 2.0 approaches, are you losing 15% of your Southeast Asian opportunity cost in the Philippines?" [cite: 72, 128]
+## THE AI-BPO HOOK
+"Is AI automation a threat to your BPO, or your greatest margin-expansion tool?"
 
-## THE AGING DEMOGRAPHIC HOOK
-* [cite_start]"I bridge the gap between global production and the growing 6% elderly demographic in the Philippines through localized intelligence." [cite: 96, 129]
+## THE SOLAR HOOK
+"How would your P&L look if we eliminated your energy bills with zero upfront capital?"
+
+## THE AGRI-LOGISTICS HOOK
+"Why are retail prices 3x higher than your farm-gate value? Let's bridge that gap."
+
+## THE TALENT HOOK
+"Stop hiring generalist VAs. Start deploying elite specialized 'Performance Units' to dominate your ops."
